@@ -38,3 +38,9 @@
 ```
 create database <databaseName>
 ```
+## 3
+`data types in sql`
+- String
+- Numeric
+- Date and Time
+![image](https://user-images.githubusercontent.com/40628582/216316113-56e3db63-c94a-45f4-8bfd-3f2e206667d3.png)
